@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1240"
+   LastUpgradeVersion = "1250"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F7FDFFA052330F0DF55287622FB80065"
-               BuildableName = "Pods-TaskGit.framework"
+               BuildableName = "Pods_TaskGit.framework"
                BlueprintName = "Pods-TaskGit"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
